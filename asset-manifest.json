@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-playground-github-pages/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-playground-github-pages/static/js/main.d1a6226f.chunk.js",
+    "main.js.map": "/react-playground-github-pages/static/js/main.d1a6226f.chunk.js.map",
+    "runtime-main.js": "/react-playground-github-pages/static/js/runtime-main.8f90f10d.js",
+    "runtime-main.js.map": "/react-playground-github-pages/static/js/runtime-main.8f90f10d.js.map",
+    "static/js/2.d0b4a0b1.chunk.js": "/react-playground-github-pages/static/js/2.d0b4a0b1.chunk.js",
+    "static/js/2.d0b4a0b1.chunk.js.map": "/react-playground-github-pages/static/js/2.d0b4a0b1.chunk.js.map",
+    "index.html": "/react-playground-github-pages/index.html",
+    "precache-manifest.68e9100bdd0e3ff36f14604312fee512.js": "/react-playground-github-pages/precache-manifest.68e9100bdd0e3ff36f14604312fee512.js",
+    "service-worker.js": "/react-playground-github-pages/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-playground-github-pages/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d0b4a0b1.chunk.js.LICENSE.txt": "/react-playground-github-pages/static/js/2.d0b4a0b1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-playground-github-pages/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f90f10d.js",
+    "static/js/2.d0b4a0b1.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d1a6226f.chunk.js"
+  ]
+}
